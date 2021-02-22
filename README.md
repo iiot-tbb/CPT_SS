@@ -1,5 +1,6 @@
 # CPT_SS
 句子相似度的比赛任务。
+(资料1)[client_loop: send disconnect: Broken pipetence-pair] 
 
 ### 百度千言数据集文本相似度比赛
 包含三个数据集和一个baseline</br>
