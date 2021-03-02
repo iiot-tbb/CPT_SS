@@ -3,7 +3,7 @@
 [资料1:COVID-19-sentence-compete](https://github.com/yechens/COVID-19-sentence-pair)   
 [资料2:知乎1](https://www.zhihu.com/question/354129879/answer/1015466495)  
 [资料3:知乎2](https://www.zhihu.com/question/354129879/answer/1357885214)  
-[资料3:Bert sentence similarity by PyTorch]( https://github.com/lonePatient/bert-sentence-similarity-pytorch)
+[资料3:Bert sentence similarity by PyTorch]( https://github.com/lonePatient/bert-sentence-similarity-pytorch)   
 [资料4:nCoV-2019-sentence-similarity](https://github.com/daniellibin/nCoV-2019-sentence-similarity)    
 ### 百度千言数据集文本相似度比赛
 包含三个数据集和两个baseline    
